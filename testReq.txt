@@ -1,0 +1,46 @@
+//signin
+{
+	"login": "sss",
+	"password": "sss"
+}
+//signup
+{
+	"login": "ss",
+	"password": "s111111111ss",
+	"email": "student@belstu.by",
+	"invitedBy": "SS",
+	"birth": "01-01-1997",
+	"sex": "male",
+	"agreedWithTerms": true
+}
+//drinks
+{
+	"name": "dddd",
+	"strength": 11.3,
+	"code": "dd33",
+	"alcoholic": true
+}
+//recipes
+{
+	"name": "dddd",
+	"ingredients":[
+		{
+			"name": "aa",
+			"weight": 12,
+			"photos":[
+				"sss", "ss"
+				]
+		},
+		{
+			"name": "aa",
+			"weight": 12,
+			"photos":[
+				"sss", "ss"
+				]
+		}
+		],
+	"photos": [
+		"ss", "dd"
+		],
+	"portions": "sss"
+}
